@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJS-KR&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=KJS-KR&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJS-KR&show_icons=true&theme=radical) | [![Jimmy's Stri](https://streak-stats.demolab.com?user=KJS-KR&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJS-KR&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJS-KR&layout=compact&&show_icons=true&theme=radical)](https://github.com/KJS-KR/github-readme-stats) |                                                              |
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KJS-KR&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jimmy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KJS-KR&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/KJS-KR/github-readme-activity-graph)
