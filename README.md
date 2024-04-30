@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+| ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpatel26&show_icons=true&theme=radical) | [![Jimmy's Stri](https://streak-stats.demolab.com?user=ashishpatel26&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpatel26&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+
+
+
+[![Jimmy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishpatel26&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
